@@ -1,4 +1,4 @@
-# To do list 
+# Covid-19 Chart 😷
 
 # In this project i was used:
 
