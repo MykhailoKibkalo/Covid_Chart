@@ -10,4 +10,4 @@
 - [API](https://covid19.mathdro.id/api);
 - ESLint;
 
-# You can see this project by [link](https://main-todo.netlify.app/)
+# You can see this project by [link](https://main-covid.netlify.app/)
